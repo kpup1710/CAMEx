@@ -2,12 +2,12 @@
 The source code of "CAMEx: Curvature-aware Merging of Experts":
 
 <p align="center">
-  <img src="Figures/CAMEx.png" width="800">  
+  <img src="figs/CAMEx.png" width="800">  
 </p>
 
 
 ## Requirements
-- torch==1.13.1
+- torch>=1.13.1
 
 ## Usage
 
